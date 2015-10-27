@@ -1,0 +1,5 @@
+{
+    // the keys in view.settings().get() to retrieve the -I parameters from. for example, for
+    // clang-complete, use "cc_include_options" and for SublimeClang, use "sublimeclang_options".
+    "include_options": ["cc_include_options"]
+}
